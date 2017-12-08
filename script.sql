@@ -1,6 +1,7 @@
 create database editable;
 create user editableuser identified by 'editablepass';
 grant all privileges on editable.* to editableuser;
+
 use editable;
 
 drop table profile;
