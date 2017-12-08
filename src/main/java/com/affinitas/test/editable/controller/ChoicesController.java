@@ -3,9 +3,7 @@ package com.affinitas.test.editable.controller;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
 
 @RestController
 @RequestMapping("/choices")
