@@ -4,7 +4,6 @@ grant all privileges on editable.* to editableuser;
 
 use editable;
 
-drop table profile;
 create table profile (
   id bigint auto_increment primary key,
   display_name varchar(200) not null,
