@@ -9,7 +9,7 @@ import java.io.InputStream;
 
 @RestController
 @RequestMapping("/choices")
-@CrossOrigin(origins = "http://192.168.1.3:4200")
+@CrossOrigin(origins = "http://localhost:4200")
 public class ChoicesController {
 
 

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a0f927-5b91-462a-86c7-3c95f7371775" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/35db2b89-c881-4d25-ba56-f515c70ca744.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/35db2b89-c881-4d25-ba56-f515c70ca744.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script.sql" afterPath="$PROJECT_DIR$/script.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ChoicesController.java" afterPath="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ChoicesController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java" afterPath="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +53,8 @@
       <file leaf-file-name="ChoicesController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ChoicesController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="165">
+              <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,32 +87,29 @@
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/35db2b89-c881-4d25-ba56-f515c70ca744/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <state relative-caret-position="15">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-87">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProfileController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ProfileController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#1481#1482#0" expanded="true" />
-                <element signature="e#1527#1528#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,17 +151,17 @@
         <option value="$PROJECT_DIR$/src/test/java/com/affinitas/test/editable/repository/ProfileRepositoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/repository/ProfileRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/service/ProfileService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/affinitas/test/editable/controller/ProfileControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/model/Profile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/CityController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/model/Location.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/model/City.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/single_choice_attributes.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ChoicesController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/script.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/35db2b89-c881-4d25-ba56-f515c70ca744/console.sql" />
         <option value="$PROJECT_DIR$/script.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ChoicesController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java" />
       </list>
     </option>
   </component>
@@ -498,7 +494,7 @@
       <workItem from="1512640705875" duration="2097000" />
       <workItem from="1512644394649" duration="1233000" />
       <workItem from="1512670636763" duration="4485000" />
-      <workItem from="1512730163773" duration="489000" />
+      <workItem from="1512730163773" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="change of script place">
       <created>1512730252293</created>
@@ -507,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512730252293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Correction in the script">
+      <created>1512730670668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512730670668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31232000" />
+    <option name="totallyTimeSpent" value="31503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -529,7 +532,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2688822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -589,7 +592,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change of script place" />
-    <option name="LAST_COMMIT_MESSAGE" value="change of script place" />
+    <MESSAGE value="Correction in the script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction in the script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -602,10 +606,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,10 +680,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -754,10 +752,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -837,10 +832,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -896,10 +888,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
-          <folding>
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,17 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1527#1528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/cities.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1087,28 +1065,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/35db2b89-c881-4d25-ba56-f515c70ca744/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ChoicesController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="165">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/35db2b89-c881-4d25-ba56-f515c70ca744/console.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/affinitas/test/editable/controller/ProfileController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="120">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

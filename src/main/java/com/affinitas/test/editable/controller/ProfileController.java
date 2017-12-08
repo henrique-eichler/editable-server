@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/profiles")
-@CrossOrigin(origins = "http://192.168.1.3:4200")
+@CrossOrigin(origins = "http://localhost:4200")
 public class ProfileController {
 
     private ProfileService profileService;
